@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/constants.ts","./src/main.tsx","./src/types.ts","./src/data/demoscenarios.ts","./src/data/seed.ts","./src/utils/csv.ts","./src/utils/keywordmatch.ts","./src/utils/stage.ts","./src/utils/storage.ts","./tests/csv.test.ts","./tests/keywordmatch.test.ts","./tests/stage.test.ts"],"version":"5.9.3"}
