@@ -1,4 +1,5 @@
 ﻿# Job Application Tracker + Resume Match
+<img width="1280" height="720" alt="Untitled design (14)" src="https://github.com/user-attachments/assets/12a5845c-91f5-4ec4-b76e-71309f14db55" />
 
 React + TypeScript Single Page Application
 
